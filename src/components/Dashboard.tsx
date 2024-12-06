@@ -29,7 +29,7 @@ export default function Dashboard() {
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://docs.google.com/presentation/d/1NGp-ZlL6LuSJdriI8TD79RyJ9zwKRfIEewErYAdA-H0/edit?usp=sharingnp["
+                  href="https://drive.google.com/file/d/1n0OoFWI-2fjsXTqLJX9hDwkKiHykms5m/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
